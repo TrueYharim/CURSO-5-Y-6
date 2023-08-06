@@ -1,0 +1,28 @@
+.clase1{
+font-weight: bold;
+font-size: xx-large;
+ }
+ .clase2{
+    font-style: italic;
+}
+#Lunes {
+    color: blue;
+}
+#Martes {
+    color: red;
+}
+#Miercoles {
+    color: yellow;
+}
+#Jueves {
+    color: green;
+}
+#Viernes {
+    color: orange;
+}
+#Sabado {
+    color: purple;
+}
+#Domingo {
+    color: blueviolet;
+}
