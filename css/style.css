@@ -26,3 +26,31 @@ font-size: xx-large;
 #Domingo {
     color: blueviolet;
 }
+
+.header {
+    background-color: #3498db;
+    height: 100px;
+    width: 100%; 
+
+}
+
+.footer {
+    background-color: #34495e;
+    height: 60px;
+    width: 100%;
+}
+.form {
+    border: 2px solid #d35400;
+    padding: 20px;
+}
+.lista {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0;
+}
+.lista li {
+    margin: 0 10px;
+}
+
